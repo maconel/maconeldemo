@@ -1,0 +1,6 @@
+framework module Pods_AFNetWorkingDemo {
+  umbrella header "Pods-AFNetWorkingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
